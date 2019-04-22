@@ -9,7 +9,7 @@ namespace NomadControlWork.Models
     public class Print
     {
         public Guid Id { get; set; }
-        public int JournalId { get; set; }
+        public Guid JournalId { get; set; }
         public int Edition { get; set; }
         public Print()
         {

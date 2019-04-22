@@ -49,12 +49,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="DataAccess.cs" />
-    <Compile Include="Migrations\201904220428141_Initial.cs" />
-    <Compile Include="Migrations\201904220428141_Initial.Designer.cs">
-      <DependentUpon>201904220428141_Initial.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -66,11 +60,6 @@
       <Project>{18BF00AA-B460-438B-87C1-A08D0A95C919}</Project>
       <Name>NomadControlWork.Models</Name>
     </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
-    <EmbeddedResource Include="Migrations\201904220428141_Initial.resx">
-      <DependentUpon>201904220428141_Initial.cs</DependentUpon>
-    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

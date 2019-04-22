@@ -9,8 +9,8 @@ namespace NomadControlWork.Models
     public class Delivery
     {
         public Guid Id { get; set; }
-        public int JournalId { get; set; }
-        public int UserId { get; set; }
+        public Guid JournalId { get; set; }
+        public Guid UserId { get; set; }
         public bool Status { get; set; }
         public Delivery()
         {
