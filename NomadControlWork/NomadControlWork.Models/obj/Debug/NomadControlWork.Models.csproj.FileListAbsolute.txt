@@ -1,0 +1,5 @@
+C:\Users\МукушевА.CORP\source\repos\NomadControlWork\NomadControlWork.Models\obj\Debug\NomadControlWork.Models.csproj.CoreCompileInputs.cache
+C:\Users\МукушевА.CORP\source\repos\NomadControlWork\NomadControlWork.Models\bin\Debug\NomadControlWork.Models.dll
+C:\Users\МукушевА.CORP\source\repos\NomadControlWork\NomadControlWork.Models\bin\Debug\NomadControlWork.Models.pdb
+C:\Users\МукушевА.CORP\source\repos\NomadControlWork\NomadControlWork.Models\obj\Debug\NomadControlWork.Models.dll
+C:\Users\МукушевА.CORP\source\repos\NomadControlWork\NomadControlWork.Models\obj\Debug\NomadControlWork.Models.pdb

@@ -1,0 +1,14 @@
+C:\Users\МукушевА.CORP\source\repos\NomadControlWork\NomadControlWork\bin\Debug\NomadControlWork.exe.config
+C:\Users\МукушевА.CORP\source\repos\NomadControlWork\NomadControlWork\bin\Debug\NomadControlWork.exe
+C:\Users\МукушевА.CORP\source\repos\NomadControlWork\NomadControlWork\bin\Debug\NomadControlWork.pdb
+C:\Users\МукушевА.CORP\source\repos\NomadControlWork\NomadControlWork\obj\Debug\NomadControlWork.csprojAssemblyReference.cache
+C:\Users\МукушевА.CORP\source\repos\NomadControlWork\NomadControlWork\obj\Debug\NomadControlWork.csproj.CoreCompileInputs.cache
+C:\Users\МукушевА.CORP\source\repos\NomadControlWork\NomadControlWork\obj\Debug\NomadControlWork.exe
+C:\Users\МукушевА.CORP\source\repos\NomadControlWork\NomadControlWork\obj\Debug\NomadControlWork.pdb
+C:\Users\МукушевА.CORP\source\repos\NomadControlWork\NomadControlWork\bin\Debug\EntityFramework.dll
+C:\Users\МукушевА.CORP\source\repos\NomadControlWork\NomadControlWork\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\МукушевА.CORP\source\repos\NomadControlWork\NomadControlWork\bin\Debug\EntityFramework.xml
+C:\Users\МукушевА.CORP\source\repos\NomadControlWork\NomadControlWork\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\МукушевА.CORP\source\repos\NomadControlWork\NomadControlWork\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\МукушевА.CORP\source\repos\NomadControlWork\NomadControlWork\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\МукушевА.CORP\source\repos\NomadControlWork\NomadControlWork\obj\Debug\NomadControlWork.csproj.CopyComplete
