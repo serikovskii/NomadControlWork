@@ -28,3 +28,7 @@ C:\Users\azat\Documents\GitHub\NomadControlWork\NomadControlWork\NomadControlWor
 C:\Users\azat\Documents\GitHub\NomadControlWork\NomadControlWork\NomadControlWork\bin\Debug\ru\EntityFramework.resources.dll
 C:\Users\azat\Documents\GitHub\NomadControlWork\NomadControlWork\NomadControlWork\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
 C:\Users\azat\Documents\GitHub\NomadControlWork\NomadControlWork\NomadControlWork\obj\Debug\NomadControlWork.csproj.CopyComplete
+C:\Users\azat\Documents\GitHub\NomadControlWork\NomadControlWork\NomadControlWork\obj\Debug\NomadControlWork.Migrations.InitialCreate.resources
+C:\Users\azat\Documents\GitHub\NomadControlWork\NomadControlWork\NomadControlWork\obj\Debug\NomadControlWork.csproj.GenerateResource.cache
+C:\Users\azat\Documents\GitHub\NomadControlWork\NomadControlWork\NomadControlWork\obj\Debug\NomadControlWork.Migrations.Initial2.resources
+C:\Users\azat\Documents\GitHub\NomadControlWork\NomadControlWork\NomadControlWork\obj\Debug\NomadControlWork.Migrations.aza.resources

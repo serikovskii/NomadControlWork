@@ -13,7 +13,7 @@ namespace NomadControlWork.Models
         public bool Subscribe { get; set; }
         public int TimeSubscribe { get; set; }
         public bool Delivered { get; set; }
-        public string NumberCard { get; set; }
+        public string Adress { get; set; }
 
         public User()
         {

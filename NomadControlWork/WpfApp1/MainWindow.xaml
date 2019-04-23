@@ -1,0 +1,26 @@
+﻿<Window x:Class="WpfApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid x:Name="MainMenu" Background="white">
+        <StackPanel Background="SlateGray">
+            <Grid Height="40" Background="DeepSkyBlue">
+                <TextBlock Text="Journal" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="18"></TextBlock>
+            </Grid>
+            <Grid Height="100"></Grid>
+            <Grid Height ="50">
+                <Button Name="Subscribe" Content="Оформить подписку" Width="150" Height="30" IsDefault="True" Click="SubscribeButton"></Button>
+            </Grid>
+            <Grid Height ="50">
+                <Button Name="Unsubscribe" Content="Отписаться" Width="150" Height="30" IsDefault="True" Click="UnsubscribeButton"></Button>
+            </Grid>
+            <Grid Height ="50">
+                <Button Name="Send" Content="Отправить всем журнал" Width="150" Height="30" IsDefault="True" Click="SendButton"></Button>
+            </Grid>
+        </StackPanel>
+    </Grid>
+</Window>
